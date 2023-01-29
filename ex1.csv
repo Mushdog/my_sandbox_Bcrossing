@@ -1,0 +1,7 @@
+,strikers,non-strikers,everyone
+0) baseline,24.5,57.449,81.949
+1) SH after strike,24.438,57.196,81.634
+2) change in SH,-0.062,-0.253,-0.315
+"3) change in SH, normalized w.r.t un-personalized",295.053,1203.053,1498.105
+4) % change in SH,-0.253,-0.44,-0.384
+"5) % change in SH, normalized w.r.t un-personalized",986.273,1716.651,1498.105

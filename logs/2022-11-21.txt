@@ -1,0 +1,105 @@
+2022-11-21 09:07:46.010381
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='1', num_samples=50, dataset='bcrossing', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:10:16.375640
+Total runtime was 0:02:30.365259
+2022-11-21 09:10:28.577783
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='6', num_samples=50, dataset='bcrossing', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:12:59.237526
+Total runtime was 0:02:30.659743
+2022-11-21 09:13:21.277220
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='12', num_samples=50, dataset='bcrossing', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:15:46.852309
+Total runtime was 0:02:25.575089
+2022-11-21 09:16:03.718649
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='61', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:18:04.148368
+Total runtime was 0:02:00.429719
+2022-11-21 09:18:26.741812
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='122', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:20:27.242330
+Total runtime was 0:02:00.500518
+2022-11-21 09:20:43.361853
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='614', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:22:44.938189
+Total runtime was 0:02:01.576336
+2022-11-21 09:22:51.757941
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='1229', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:24:51.593365
+Total runtime was 0:01:59.835424
+2022-11-21 09:25:21.183881
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='12170', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:27:08.805369
+Total runtime was 0:01:47.621488
+2022-11-21 09:28:24.917206
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='2458', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:30:23.208615
+Total runtime was 0:01:58.291409
+2022-11-21 09:30:38.275989
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='3687', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:32:34.603329
+Total runtime was 0:01:56.327340
+2022-11-21 09:33:04.010155
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='4917', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:34:59.228793
+Total runtime was 0:01:55.218638
+2022-11-21 09:35:21.238797
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='6146', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:37:13.361386
+Total runtime was 0:01:52.122589
+2022-11-21 09:37:23.996413
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='7375', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:39:16.462200
+Total runtime was 0:01:52.465787
+2022-11-21 09:39:28.121013
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='8605', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:41:19.307799
+Total runtime was 0:01:51.186786
+2022-11-21 09:41:29.959015
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='9834', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:43:19.461799
+Total runtime was 0:01:49.502784
+2022-11-21 09:43:35.088219
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='11063', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:45:21.934061
+Total runtime was 0:01:46.845842
+2022-11-21 09:45:40.634784
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='12280', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:47:25.218102
+Total runtime was 0:01:44.583318
+2022-11-21 09:47:37.594038
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='12290', num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 09:49:22.260575
+Total runtime was 0:01:44.666537
+2022-11-21 09:49:30.657716
+Namespace(indices=[1, 50], grouping='age', sample_sizes=None, num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.3, ratingfrac=1.0)
+
+Finished at time 2022-11-21 10:01:41.288069
+Total runtime was 0:12:10.630353
+2022-11-21 10:02:05.204749
+Namespace(indices=[1, 50], grouping='state', sample_sizes=None, num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.3, ratingfrac=1.0)
+
+Finished at time 2022-11-21 10:07:55.852964
+Total runtime was 0:05:50.648215
+2022-11-21 10:16:25.395866
+Namespace(indices=[1, 50], grouping='sample', sample_sizes='1', num_samples=50, dataset='bcrossing', compute_standards=True, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=1.0, ratingfrac=1.0)
+
+Finished at time 2022-11-21 10:18:37.111535
+Total runtime was 0:02:11.715669

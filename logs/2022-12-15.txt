@@ -1,0 +1,10 @@
+2022-12-15 22:36:40.679817
+Namespace(indices=[1, 50], grouping='age', sample_sizes=None, num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.5, ratingfrac=1.0)
+
+Finished at time 2022-12-15 23:00:22.934304
+Total runtime was 0:23:42.254487
+2022-12-15 23:01:22.683363
+Namespace(indices=[1, 50], grouping='state', sample_sizes=None, num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.5, ratingfrac=1.0)
+
+Finished at time 2022-12-16 00:14:13.509586
+Total runtime was 1:12:50.826223

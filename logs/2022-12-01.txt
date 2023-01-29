@@ -1,0 +1,5 @@
+2022-12-01 21:47:42.501735
+Namespace(indices=[1, 50], grouping='state', sample_sizes=None, num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.3, ratingfrac=1.0)
+
+Finished at time 2022-12-01 23:00:09.971905
+Total runtime was 1:12:27.470170

@@ -1,0 +1,25 @@
+2022-11-29 15:05:19.060801
+Namespace(indices=[1, 50], grouping='state', sample_sizes=None, num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.3, ratingfrac=1.0)
+
+Finished at time 2022-11-29 15:14:37.890633
+Total runtime was 0:09:18.829832
+2022-11-29 15:33:01.532459
+Namespace(indices=[1, 50], grouping='state', sample_sizes=None, num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.3, ratingfrac=1.0)
+
+Finished at time 2022-11-29 15:42:19.390863
+Total runtime was 0:09:17.858404
+2022-11-29 15:57:56.407516
+Namespace(indices=[1, 50], grouping='state', sample_sizes=None, num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.3, ratingfrac=1.0)
+
+Finished at time 2022-11-29 16:07:15.984339
+Total runtime was 0:09:19.576823
+2022-11-29 16:18:02.667964
+Namespace(indices=[1, 50], grouping='state', sample_sizes=None, num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.3, ratingfrac=1.0)
+
+Finished at time 2022-11-29 16:27:20.011123
+Total runtime was 0:09:17.343159
+2022-11-29 16:48:59.966225
+Namespace(indices=[1, 50], grouping='state', sample_sizes=None, num_samples=50, dataset='bcrossing', compute_standards=False, load_predictions=False, num_standards=1, movie_mean=False, send_to_out=False, save_path=None, load_path=None, load_boycotts_path=None, mode='compute', userfrac=0.3, ratingfrac=1.0)
+
+Finished at time 2022-11-29 16:58:17.073884
+Total runtime was 0:09:17.107659

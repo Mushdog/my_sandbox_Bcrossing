@@ -5,7 +5,7 @@ Code for Book-crossing dataset.
 
 I think we can start by looking at the readme file of nickmvincent/surprise_sandbox https://github.com/nickmvincent/surprise_sandbox.
 
-I just added the preprocessed Book-Crossing dataset based on their code. It should be noted in advance that in order to save AWS EC2 storage costs, I ran separate code with Movielen-1M and Book-Crossing data, i.e., two datasets correspond to two copies of the code. I made only minimal code changes to adapt to the Book-Crossing dataset, which is not fine, mature, or professional. This is a good reflection of my current level.
+I added the preprocessed Book-Crossing dataset based on their code. It should be noted in advance that in order to save AWS EC2 storage costs, I ran separate code with Movielen-1M and Book-Crossing data, i.e., two datasets correspond to two copies of the code. I made only minimal code changes to adapt to the Book-Crossing dataset, which is not fine, mature, or professional. This is a good reflection of my current level.
 
 # A. Cloud Compute and Environment Configuration:
 Since the k-NN and FunkSVD algorithms used in the recommended system involve large matrix operations, they require sufficient RAM. reminded by the nickmvincent’s code, I used the AWS EC2 Instance service. Some algorithms require, for example, m5.8xlarge configurations with 32 vGPUs and 128 GiB Memory. The rest of the calculations can be switched back to the normal m5.large configuration. Of course, the setup of jupyter notebook on the virtual machine involves some more detailed and routine operations.

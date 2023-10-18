@@ -1,7 +1,7 @@
 # my_sandbox_Bcrossing
 Code for Book-crossing dataset.
 
-# This is a short description of my code. For some reason, it is not a github specification. I'm sorry this is the first time I've written a readme file and some of the terminology aspects may not be expressed.
+This is a short description of my code. For some reason, it is not a github specification. I'm sorry this is the first time I've written a readme file and some of the terminology aspects may not be expressed.
 
 I think we can start by looking at the readme file of nickmvincent/surprise_sandbox https://github.com/nickmvincent/surprise_sandbox.
 
